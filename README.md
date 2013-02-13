@@ -8,8 +8,16 @@ Sublime Text 2 - Settings
   * Alignment
   * BufferScroll
   * ChangeQuotes
+  * ColorPick
   * DetectSyntax
+  * Emmet
   * Expand Selection to Quotes
   * IndentGuides
+  * Prefixr
+  * Python PEP8 Autoformat
   * SidebarEnhancements
   * SideBarGit
+  * Terminal
+
+## Themes
+  * zenburn
